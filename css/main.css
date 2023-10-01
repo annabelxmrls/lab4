@@ -28,7 +28,7 @@
 
   footer {
     color: white;
-    margin-top: 2rem;
+    margin-top: 10rem;
     background-color: rgb(50, 85, 145);
     padding: 1rem;
   }
@@ -36,6 +36,15 @@
   img {
     width:400px;
     height:300px;
+    margin-left: 5rem;
+  }
+
+  .prev-btn {
+    margin-left: 13rem;
+  }
+
+  .next-btn {
+    margin-left: 4rem;
   }
 
   .frame {
@@ -60,7 +69,3 @@
     transition: opacity .5s ease-out;
   }
   
-  
-  .spacer {
-    padding: 2rem;
-  }
