@@ -33,6 +33,11 @@
     padding: 1rem;
   }
 
+  img {
+    width:400px;
+    height:300px;
+  }
+
   .frame {
     position:relative;
     width:400px;
